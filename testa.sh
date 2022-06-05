@@ -1,7 +1,7 @@
 #! /bin/bash
 
-# file: Bash/URL_Scraper/url_scraper.sh
-# Author: Avinal Kumar (https://github.com/avinal) 
+# file: Bash/testa/testa.sh
+# Author: Biswajeet Ray (https://github.com/BiswajeetRay7) 
 
 # define colors and escape sequence
 lightgreen='\033[1;32m'
